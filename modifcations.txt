@@ -1,0 +1,98 @@
+MODIFICATIONS WERE DETECTED WERE FOR THE FOLLIWING FILES:
+
+FILNAME (FULL PATH)
+-------------------
+/var/cache/samba/browse.dat
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+79703ce882bf5006b3bfaa2ba588d45d8ded853bb4f0be88a888e1aed6ef249f       2021-03-29T23:42:07.305394
+
+
+FILNAME (FULL PATH)
+-------------------
+/var/www/html/lab8/hash.py
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+10e9f16129b25455f682c259e067766673dabfbcee4dd6415e21ceb8fdf687c4       2021-03-29T23:42:07.427200
+
+
+FILNAME (FULL PATH)
+-------------------
+/var/log/auth.log
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+7dfebc65cde6bb73aef7b8bcf550916cdc36d5e4ccaedeaa66445b96d75e2248       2021-03-29T23:42:07.831014
+
+
+FILNAME (FULL PATH)
+-------------------
+/var/log/syslog
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+af959b25d1d7d16ee7db6919bb225e4c5c417386b01940e71d106954befa9aa1       2021-03-29T23:42:07.868809
+
+
+FILNAME (FULL PATH)
+-------------------
+/var/log/journal/4f218b8c8cfd4b15b1f7066a8e7044ef/system.journal
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+56471ca31f5c7082ae3577796e2563a01dd4d53f88291276fba5466c3606d550       2021-03-29T23:42:08.808406
+
+
+FILNAME (FULL PATH)
+-------------------
+/var/log/journal/4f218b8c8cfd4b15b1f7066a8e7044ef/user-1000.journal
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+dd35ec31957f6f82d64df2ce51b9a16a15112bdf96b700423fc2e4aec976e63c       2021-03-29T23:42:09.012088
+
+
+FILNAME (FULL PATH)
+-------------------
+/home/loehr/.local/share/gnome-shell/application_state
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+d5892076e28de98896905b1fb4dae10c910928144cc5d9dcef3d0ab64c26e119       2021-03-29T23:43:25.188449
+
+
+FILNAME (FULL PATH)
+-------------------
+/home/loehr/.config/Code/logs/20210323T080835/exthost1/output_logging_20210323T080840/4-Python.log
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+691de077629f97a07a45caddd86b5399f060dc4c8a453ade3015b93d0974aa92       2021-03-29T23:43:37.097203
+
+
+FILNAME (FULL PATH)
+-------------------
+/home/loehr/.config/Code/Cache/cbc42e4c979f69f0_0
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+c39e61086f9781c3db38597d0f819107afedf40a48dc9b885e0c36cff97126ff       2021-03-29T23:43:37.326869
+
+
+FILNAME (FULL PATH)
+-------------------
+/home/loehr/.config/Code/Cache/index-dir/the-real-index
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+ebaede2f7459060a63ae01eeb06aa339c813526df323fcccdb6392a5866d628d       2021-03-29T23:43:37.552031
+
+
+FILNAME (FULL PATH)
+-------------------
+/home/loehr/.config/Code/GPUCache/data_1
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+ae5ef5408e08f740509ef6b8a510cc802e15453f9ce6c83092f9c0aa7e6772b9       2021-03-29T23:43:37.583643
+
+
+FILNAME (FULL PATH)
+-------------------
+/home/loehr/.config/Code/User/workspaceStorage/970a95e02454f0cf82ce4517326092ff/state.vscdb
+SHA256 HASH                                                            DATE-TIME
+-----------                                                            ---------
+cb0ed1382df69ce68725de46b4e6649ba7a2ec382dc7cf646548bca11d0b608c       2021-03-29T23:43:37.621327
+
+
